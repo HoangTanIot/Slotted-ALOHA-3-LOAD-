@@ -1,6 +1,6 @@
 Aloha
 =====
-
+Tài liệu:https://drive.google.com/drive/folders/1kn-L2A15FTyq2MHS1onGIIwlHs_G0-3d?usp=sharing
 This model makes it possible to measure the efficiency of the Aloha and
 slotted Aloha protocols. The model is similar to the original University
 of Hawaii radio network: "hosts" talk to a central "server" via a shared
